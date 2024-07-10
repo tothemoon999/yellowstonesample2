@@ -7,7 +7,7 @@ const main = async () => {
 
     // now you can call the client methods, e.g.:
     
-    // const version = await client.getVersion(); // gets the version information
+    const version = await client.getVersion(); // gets the version information
     // console.log(version);
 }
 
