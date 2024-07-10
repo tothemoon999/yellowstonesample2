@@ -3,7 +3,7 @@ import Client from "@triton-one/yellowstone-grpc";
 
 
 const main = async () => {
-    const client = new Client("http://192.168.1.112:83", undefined, undefined);
+    const client = new Client("http://192.168.1.111:83", undefined, undefined);
 
     // now you can call the client methods, e.g.:
     
